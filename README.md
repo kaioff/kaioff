@@ -2,7 +2,7 @@ Howdy, I am Kaio <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kaioff&show_icons=true" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioff&layout=compact" />
 
 
 
