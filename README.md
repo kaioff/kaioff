@@ -5,8 +5,3 @@ Howdy, I am Kaio <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioff&layout=compact" />
 
 
-
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Backhand Index Pointing Right" width="25" height="25" /> [LinkedIn] (https://www.linkedin.com/in/kaio-farkouh/)
-
-
-
