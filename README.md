@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning Data Science, AWS, Data Engineering, Machine Learning, Automation with Python and a few more topics. 
  
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
+- 💬 Talk to me about Python, JavaScript, Opportunites, Open Source... 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/kaioff?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
