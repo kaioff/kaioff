@@ -6,7 +6,7 @@
  
 
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioff&layout=compact" />
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioff&layout=compact" />
    
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/kaioff.https://github.com/kaioff)
 
