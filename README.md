@@ -15,11 +15,11 @@
 <img width="55%" align="middle" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭  I'm a recent Chapman University graduate with a degree in Business Administration and Management. I have gained experience in data analysis through various courses and projects, including developing a dashboard with Python and solving real-world business problems using SQL. I have also had experience researching and gathering data from various sources and presenting findings through data visualization. I am proficient in tools such as Excel, Python, SQL, and Tableau, and I am eager to apply my skills and knowledge in a data analyst position.
+🔭  I am Kaio, a Brazilian data engineer with hands-on experience and a strong technical background. I have a proven record of building end-to-end solutions for data collection, processing, governance, analysis, and insightful presentation.
 
-- 🌱 I’m currently learning Data Science, AWS, Data Engineering, Machine Learning, Automation with Python and a few more topics. 
- 
-- 💬 Talk to me about Python, Opportunites, Open Source... 
+I was born in São Paulo, Brazil and my dream was to study abroad in the U.S. When I graduated high school I moved to Orange County, CA to attend Chapman University to study business. One of the reasons I chose a school near Los Angeles was my love of film. 🎬
+
+Since childhood, I've had a deep affection for investigative stories that make you question every character and their choices. One day, I had a revelation: what if I could become the detective of my own narrative? That's when I fell in love with data engineer. The process of digging into data, experiencing moments of frustration, conducting investigations, and relentlessly questioning to transform raw data into a compelling and coherent story became my passion. 🕵️
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/kaioff?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
