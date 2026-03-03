@@ -6,9 +6,9 @@
  
 
 
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioff&layout=compact" />
+
    
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/kaioff.https://github.com/kaioff)
+
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
